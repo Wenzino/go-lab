@@ -1,0 +1,13 @@
+# Binaries & build output
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+bin/
+tmp/
+
+# IDE folders
+.idea/
+.vscode/
