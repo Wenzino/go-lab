@@ -1,1 +1,1 @@
-module classes
+module go-lab
